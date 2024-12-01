@@ -1,0 +1,3 @@
+# Placeholder for Python dependencies
+# Example: flask==2.2.3
+
