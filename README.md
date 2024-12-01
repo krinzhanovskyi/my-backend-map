@@ -16,8 +16,8 @@ This project provides a hands-on introduction to backend development with Python
 ## Setup Instructions
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/backend-basics-python.git
-   cd backend-basics-python
+   git clone https://github.com/krinzhanovskyi/my-backend-map.git
+   cd my-backend-map
    ```
 
 2. Install dependencies:
